@@ -4,7 +4,8 @@ A new Flutter application.
 
 ## Getting Started
 
-![Screenshot_1619189385](https://user-images.githubusercontent.com/41040479/115889203-9582c100-a408-11eb-90ef-9a08fa0ce6e5.png)
+![Web 1920 – 1](https://user-images.githubusercontent.com/41040479/119667197-e8c2a780-bdea-11eb-8633-3e39b863c9d2.png)
+
 
 This project is a starting point for a Flutter application.
 
@@ -18,4 +19,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![Screenshot_1619189379](https://user-images.githubusercontent.com/41040479/115889117-81d75a80-a408-11eb-9d38-663306d0783b.png)
